@@ -1,5 +1,4 @@
 # MY FAVOURITE MOVIE
-My first repository
 **Avengers: Infinity War (2018) is the third Avengers film and a pivotal installment in the Marvel Cinematic Universe, directed by Anthony and Joe Russo. The plot centers around the powerful villain Thanos, who seeks to collect all six Infinity Stones to wipe out half of all life in the universe, aiming to bring balance to what he perceives as an overpopulated world. The Avengers, alongside their allies like the Guardians of the Galaxy and Doctor Strange, must team up to stop Thanos, leading to intense battles across the universe. Despite their efforts, Thanos successfully collects all the stones and carries out his devastating plan, resulting in the disintegration of half of the universe's population, including key heroes. Infinity War is known for its shocking, emotional cliffhanger, leaving audiences eagerly awaiting its sequel, Avengers: Endgame, to resolve the fate of the characters.**
 
 ## SERIES OF AVENGERS
